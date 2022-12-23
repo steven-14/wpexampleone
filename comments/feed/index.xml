@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Worpress Example One	</title>
-	<atom:link href="https://github.com/steven-14/wpexampleone/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://github.com/steven-14/wpexampleone</link>
+	<atom:link href="https://https://steven-14.github.io/wpexampleone/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://steven-14.github.io/wpexampleone</link>
 	<description>Portfolio Wordpress</description>
 	<lastBuildDate>Fri, 04 Nov 2016 00:44:33 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		Comment on Nulla metus metus ullamcorper vel tincidunt by OceanWP		</title>
-		<link>https://github.com/steven-14/wpexampleone/2016/10/25/nulla-metus-metus-ullamcorper-vel-tincidunt/#comment-3</link>
+		<link>https://https://steven-14.github.io/wpexampleone/2016/10/25/nulla-metus-metus-ullamcorper-vel-tincidunt/#comment-3</link>
 
 		<dc:creator><![CDATA[OceanWP]]></dc:creator>
 		<pubDate>Fri, 04 Nov 2016 00:44:33 +0000</pubDate>
@@ -34,7 +34,7 @@
 		<item>
 		<title>
 		Comment on Quis ligula lacinia aliquet mauris ipsum by OceanWP		</title>
-		<link>https://github.com/steven-14/wpexampleone/2016/10/25/quis-ligula-lacinia-aliquet-mauris-ipsum/#comment-2</link>
+		<link>https://https://steven-14.github.io/wpexampleone/2016/10/25/quis-ligula-lacinia-aliquet-mauris-ipsum/#comment-2</link>
 
 		<dc:creator><![CDATA[OceanWP]]></dc:creator>
 		<pubDate>Fri, 04 Nov 2016 00:44:27 +0000</pubDate>
@@ -48,7 +48,7 @@
 		<item>
 		<title>
 		Comment on Luctus non massa fusce ac turpis quis by OceanWP		</title>
-		<link>https://github.com/steven-14/wpexampleone/2016/10/25/luctus-non-massa-fusce-ac-turpis-quis/#comment-4</link>
+		<link>https://https://steven-14.github.io/wpexampleone/2016/10/25/luctus-non-massa-fusce-ac-turpis-quis/#comment-4</link>
 
 		<dc:creator><![CDATA[OceanWP]]></dc:creator>
 		<pubDate>Fri, 04 Nov 2016 00:44:13 +0000</pubDate>
@@ -62,7 +62,7 @@
 		<item>
 		<title>
 		Comment on Conubia nostra per inceptos himenaeos by OceanWP		</title>
-		<link>https://github.com/steven-14/wpexampleone/2016/10/25/conubia-nostra-per-inceptos-himenaeos/#comment-5</link>
+		<link>https://https://steven-14.github.io/wpexampleone/2016/10/25/conubia-nostra-per-inceptos-himenaeos/#comment-5</link>
 
 		<dc:creator><![CDATA[OceanWP]]></dc:creator>
 		<pubDate>Fri, 04 Nov 2016 00:43:35 +0000</pubDate>
